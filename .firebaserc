@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "default": "securaz"
+  },
+  "targets": {
+    "securaz": {
+      "hosting": {
+        "securaz": ["securaz-web"]
+      }
+    }
+  }
+}
