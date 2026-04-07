@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site": "az-soc2-dev",
     "public": "out",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [

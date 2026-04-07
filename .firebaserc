@@ -1,12 +1,5 @@
 {
   "projects": {
-    "default": "az-soc2-dev"
-  },
-  "targets": {
-    "az-soc2-dev": {
-      "hosting": {
-        "securaz": ["securaz-web"]
-      }
-    }
+    "default": "sercuraz"
   }
 }
